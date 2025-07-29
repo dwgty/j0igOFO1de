@@ -43,5 +43,39 @@ window.videos = [
     "Harem"
   ],
   "eps1": "https://qu.ax/gwNvp.mp4"
+},
+  {
+  "title": "Kiss x Sis",
+  "mini-info-rtg": "6.80",
+  "mini-info-eps": "12",
+  "status": "Completed",
+  "tipe": "Series",
+  "studio": "feel.",
+  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantis—dan erotis.",
+  "aired-start": "2025-07-12",
+  "thumbnail": "https://i.postimg.cc/L6tKKMp2/images.jpg",
+  "tanda-populer": "F",
+  "direktur": "HiyaNime",
+  "season": "Musim 1",
+  "genre": "Comedy, Romance, Seinen, School, Harem",
+  "hastag": [
+    "Comedy",
+    "Romance",
+    "Seinen",
+    "School",
+    "Harem"
+  ],
+  "eps1": "https://qu.ax/TmnyQ.mp4",
+  "eps2": "https://qu.ax/AQiNl.mp4",
+  "eps3": "https://qu.ax/ROYbT.mp4",
+  "eps4": "https://qu.ax/nWeUg.mp4",
+  "eps5": "https://qu.ax/naNOB.mp4",
+  "eps6": "https://qu.ax/jrjRk.mp4",
+  "eps7": "https://qu.ax/jhrBR.mp4",
+  "eps8": "https://qu.ax/SSvYG.mp4",
+  "eps9": "https://qu.ax/QAZyO.mp4",
+  "eps10": "https://qu.ax/iGKDG.mp4",
+  "eps11": "https://qu.ax/yngpZ.mp4",
+  "eps12": "https://qu.ax/xPcDl.mp4"
 }
 ];
