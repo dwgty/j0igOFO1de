@@ -51,7 +51,7 @@ window.videos = [
   "status": "Completed",
   "tipe": "Series",
   "studio": "feel.",
-  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantis—dan erotis.",
+  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisâdan erotis.",
   "aired-start": "2025-07-12",
   "thumbnail": "https://i.postimg.cc/L6tKKMp2/images.jpg",
   "tanda-populer": "F",
@@ -77,5 +77,30 @@ window.videos = [
   "eps10": "https://qu.ax/iGKDG.mp4",
   "eps11": "https://qu.ax/yngpZ.mp4",
   "eps12": "https://qu.ax/xPcDl.mp4"
+},
+  {
+  "title": "Shoujo Ramune",
+  "mini-info-rtg": "6.7",
+  "mini-info-eps": "5",
+  "status": "Complete",
+  "tipe": "OVA",
+  "studio": "New Generation",
+  "sinopsis": "pinggiran Tokyo. Ia telah berhenti dari pekerjaan sebelumnya untuk menjauh dari hiruk pikuk kota besar dan kini menikmati hari-harinya dikelilingi gadis-gadis kecil.",
+  "aired-start": "2025-07-30",
+  "thumbnail": "https://i.postimg.cc/gj2zq8xJ/Shoujo-Ramune-Episode-5.jpg",
+  "tanda-populer": "true",
+  "direktur": "HiyaNime",
+  "season": "Musim 1",
+  "genre": "Mecha, School, Harem",
+  "hastag": [
+    "Mecha",
+    "School",
+    "Harem"
+  ],
+  "eps1": "https://qu.ax/wZYaX.mp4",
+  "eps2": "https://qu.ax/WxulB.mp4",
+  "eps3": "https://qu.ax/gZfNF.mp4",
+  "eps4": "https://qu.ax/OBqVp.mp4",
+  "eps5": "https://qu.ax/rkzYm.mp4"
 }
 ];
