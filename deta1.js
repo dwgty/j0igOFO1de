@@ -10,7 +10,7 @@ window.videos = [
   "aired-start": "2025-07-11",
   "thumbnail": "https://i.postimg.cc/gjdxqqDq/images.jpg",
   "tanda-populer": "T",
-  "direktur": "HiyaNime",
+  "direktur": "Admin",
   "season": "Musim 1",
   "genre": "Romance, Ecchi, Harem",
   "hastag": [ "Romance", "Ecchi", "Harem", "keluarga", "adik", "kakak" ],
@@ -34,7 +34,7 @@ window.videos = [
   "aired-start": "2025-07-10",
   "thumbnail": "https://i.postimg.cc/3NQ66DxJ/images.jpg",
   "tanda-populer": "T",
-  "direktur": "HiyaNime",
+  "direktur": "Admin",
   "season": "Musim 1",
   "genre": "Fantasy, Isekai, Harem",
   "hastag": [
@@ -55,7 +55,7 @@ window.videos = [
   "aired-start": "2025-07-12",
   "thumbnail": "https://i.postimg.cc/L6tKKMp2/images.jpg",
   "tanda-populer": "F",
-  "direktur": "HiyaNime",
+  "direktur": "Admin",
   "season": "Musim 1",
   "genre": "Comedy, Romance, Seinen, School, Harem",
   "hastag": [
@@ -89,7 +89,7 @@ window.videos = [
   "aired-start": "2025-07-30",
   "thumbnail": "https://i.postimg.cc/gj2zq8xJ/Shoujo-Ramune-Episode-5.jpg",
   "tanda-populer": "true",
-  "direktur": "HiyaNime",
+  "direktur": "Admin",
   "season": "Musim 1",
   "genre": "Mecha, School, Harem",
   "hastag": [
