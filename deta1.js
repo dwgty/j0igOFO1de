@@ -113,7 +113,7 @@ window.videos = [
   "sinopsis": "Takuto Ira meninggal karena penyakit di usia muda dan akhirnya bereinkarnasi di dunia yang menyerupai game strategi berbasis giliran fantasi Eternal Nations. Ia tidak hanya bereinkarnasi ke dalam game favoritnya, tetapi juga sebagai dewa yang memimpin peradaban jahat Mynoghra. Dengan unit pahlawan Mynoghra yang cantik, Sludge Witch Atou di sisinya, bahkan sifat ras yang sangat sulit sekalipun tidak akan menghalangi mereka untuk memulai kembali peradaban mereka!",
   "aired-start": "2025-08-12",
   "thumbnail": "https://i.postimg.cc/cLtRFQ5P/Mynoghra.jpg",
-  "tanda-populer": "",
+  "tanda-populer": "T",
   "direktur": "Admin",
   "season": "Musim 1",
   "genre": "Adventure, Fantasy, Isekai",
