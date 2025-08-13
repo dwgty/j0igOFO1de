@@ -201,22 +201,5 @@ window.videos = [
   "eps12": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F11-360p-1742057697136.mp4",
   "eps13": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F12-360p-1742662189512.mp4",
   "eps14": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F13-360p-1743267622079.mp4"
-},
-  {
-  "title": "",
-  "mini-info-rtg": "",
-  "mini-info-eps": "",
-  "status": "Ongoing",
-  "tipe": "TV",
-  "studio": "",
-  "sinopsis": "",
-  "aired-start": "",
-  "thumbnail": "",
-  "tanda-populer": "T",
-  "direktur": "Admin",
-  "season": "Musim ",
-  "genre": "",
-  "hastag": [],
-  "eps1": ""
 }
 ];
