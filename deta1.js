@@ -136,7 +136,7 @@ window.videos = [
   "eps12": ""
 },
   {
-  "title": "Solo Leveling - Ore dake Level Up na Ken",
+  "title": "Solo Leveling",
   "mini-info-rtg": "8.6",
   "mini-info-eps": "13",
   "status": "Complete",
@@ -144,7 +144,7 @@ window.videos = [
   "studio": "A-1 Pictures",
   "sinopsis": "Sudah lebih dari satu dekade sejak kemunculan tiba-tiba dari (gate) jalan yang menghubungkan dunia kita dengan dimensi yang berbeda. Sejak itu, manusia tertentu telah terbangun dengan kekuatan gaib. Kami menyebut orang-orang ini pemburu. \r\n\r\nPemburu mencari uang dengan menggunakan kekuatan mereka untuk menaklukkan dungeon di dalam gerbang. Di dunia dungeon yang tangguh ini, pemburu peringkat rendah Jinwoo Sung dikenal sebagai pemburu terlemah dari seluruh umat manusia.\r\n\r\nSuatu hari, Jinwoo terluka parah ketika dia dungeon tingkat tinggi yang tersembunyi di dalam dungeon tanah tingkat rendah. Saat itu, jendela quest misterius muncul di depannya. Di ambang kematian, Jinwoo memutuskan untuk menerima quest tersebut dan mulai menaikkan levelnya, sementara yang lain tidak.",
   "aired-start": "2025-08-13",
-  "thumbnail": "https://i.postimg.cc/dVZM5kWS/images.jpg",
+  "thumbnail": "https://i.postimg.cc/k4mbh9N3/images-1.jpg",
   "tanda-populer": "T",
   "direktur": "Admin",
   "season": "Musim 1",
@@ -177,7 +177,7 @@ window.videos = [
   "studio": "A-1 Pictures",
   "sinopsis": "Sudah lebih dari sepuluh tahun sejak gerbang menuju dimensi lain mulai bermunculan di seluruh dunia. Pertarungan antara binatang ajaib yang menghuni ruang bawah tanah melalui gerbang dan para pemburu manusia yang telah membangkitkan kemampuan untuk melawan mereka tidak menunjukkan tanda-tanda akan berakhir. Biasanya, kemampuan seorang pemburu tidak berubah saat terbangun, dan peringkatnya tidak pernah meningkat. Namun, Sung Jinwoo yang berperingkat rendah, yang dikenal sebagai \"Pemburu Terlemah Seluruh Umat Manusia,\" memperoleh kemampuan untuk naik level melalui pertempuran selama penyerbuan di ruang bawah tanah ganda.\n\nSetelah menyelesaikan misi perubahan pekerjaan yang memberinya pekerjaan \"Raja Bayangan\" dan memimpin pasukan bayangan, Jinwoo menuju ke medan perang mencari bahan Ramuan Kehidupan untuk menyelamatkan ibunya yang sakit.",
   "aired-start": "2025-08-13",
-  "thumbnail": "https://i.postimg.cc/dVZM5kWS/images.jpg",
+  "thumbnail": "https://i.postimg.cc/rmNtBbgd/images.jpg",
   "tanda-populer": "F",
   "direktur": "Admin",
   "season": "Musim 2",
