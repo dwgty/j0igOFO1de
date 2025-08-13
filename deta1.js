@@ -51,7 +51,7 @@ window.videos = [
   "status": "Completed",
   "tipe": "Series",
   "studio": "feel.",
-  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃ¢ÂÂdan erotis.",
+  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃÂ¢ÃÂÃÂdan erotis.",
   "aired-start": "2025-07-12",
   "thumbnail": "https://i.postimg.cc/L6tKKMp2/images.jpg",
   "tanda-populer": "F",
@@ -134,5 +134,38 @@ window.videos = [
   "eps10": "",
   "eps11": "",
   "eps12": ""
+},
+  {
+  "title": "Solo Leveling - Ore dake Level Up na Ken",
+  "mini-info-rtg": "8.6",
+  "mini-info-eps": "13",
+  "status": "Complete",
+  "tipe": "Series",
+  "studio": "A-1 Pictures",
+  "sinopsis": "Sudah lebih dari satu dekade sejak kemunculan tiba-tiba dari (gate) jalan yang menghubungkan dunia kita dengan dimensi yang berbeda. Sejak itu, manusia tertentu telah terbangun dengan kekuatan gaib. Kami menyebut orang-orang ini pemburu. \r\n\r\nPemburu mencari uang dengan menggunakan kekuatan mereka untuk menaklukkan dungeon di dalam gerbang. Di dunia dungeon yang tangguh ini, pemburu peringkat rendah Jinwoo Sung dikenal sebagai pemburu terlemah dari seluruh umat manusia.\r\n\r\nSuatu hari, Jinwoo terluka parah ketika dia dungeon tingkat tinggi yang tersembunyi di dalam dungeon tanah tingkat rendah. Saat itu, jendela quest misterius muncul di depannya. Di ambang kematian, Jinwoo memutuskan untuk menerima quest tersebut dan mulai menaikkan levelnya, sementara yang lain tidak.",
+  "aired-start": "2025-08-13",
+  "thumbnail": "https://i.postimg.cc/dVZM5kWS/images.jpg",
+  "tanda-populer": "true",
+  "direktur": "Admin",
+  "season": "Musim 1",
+  "genre": "Action, Adventure, Fantasy",
+  "hastag": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "eps1": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F1-360p-1734829989476.mp4",
+  "eps2": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F2-360p-1734830014330.mp4",
+  "eps3": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F3-360p-1734830034890.mp4",
+  "eps4": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F4-360p-1734830059494.mp4",
+  "eps5": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F5-360p-1734830078794.mp4",
+  "eps6": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F6-360p-1734830098850.mp4",
+  "eps7": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F7-360p-1734830122212.mp4",
+  "eps8": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F7.1-720p-1737703308151.mp4",
+  "eps9": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F8-360p-1734830146625.mp4",
+  "eps10": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F9-360p-1734830175719.mp4",
+  "eps11": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F10-360p-1734830200408.mp4",
+  "eps12": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F11-360p-1734830233195.mp4",
+  "eps13": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F12-360p-1734830259134.mp4"
 }
 ];
