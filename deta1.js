@@ -51,7 +51,7 @@ window.videos = [
   "status": "Completed",
   "tipe": "Series",
   "studio": "feel.",
-  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃÂÃÂ¢ÃÂÃÂÃÂÃÂdan erotis.",
+  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂdan erotis.",
   "aired-start": "2025-07-12",
   "thumbnail": "https://i.postimg.cc/L6tKKMp2/images.jpg",
   "tanda-populer": "F",
@@ -201,5 +201,22 @@ window.videos = [
   "eps12": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F11-360p-1742057697136.mp4",
   "eps13": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F12-360p-1742662189512.mp4",
   "eps14": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F13-360p-1743267622079.mp4"
+},
+  {
+  "title": "",
+  "mini-info-rtg": "",
+  "mini-info-eps": "",
+  "status": "Ongoing",
+  "tipe": "TV",
+  "studio": "",
+  "sinopsis": "",
+  "aired-start": "",
+  "thumbnail": "",
+  "tanda-populer": "T",
+  "direktur": "Admin",
+  "season": "Musim ",
+  "genre": "",
+  "hastag": [],
+  "eps1": ""
 }
 ];
