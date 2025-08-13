@@ -51,7 +51,7 @@ window.videos = [
   "status": "Completed",
   "tipe": "Series",
   "studio": "feel.",
-  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃÂ¢ÃÂÃÂdan erotis.",
+  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃÂÃÂ¢ÃÂÃÂÃÂÃÂdan erotis.",
   "aired-start": "2025-07-12",
   "thumbnail": "https://i.postimg.cc/L6tKKMp2/images.jpg",
   "tanda-populer": "F",
@@ -167,5 +167,39 @@ window.videos = [
   "eps11": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F10-360p-1734830200408.mp4",
   "eps12": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F11-360p-1734830233195.mp4",
   "eps13": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%2F12-360p-1734830259134.mp4"
+},
+  {
+  "title": "Solo Leveling Season 2",
+  "mini-info-rtg": "9.9",
+  "mini-info-eps": "14",
+  "status": "Complete",
+  "tipe": "Series",
+  "studio": "A-1 Pictures",
+  "sinopsis": "Sudah lebih dari sepuluh tahun sejak gerbang menuju dimensi lain mulai bermunculan di seluruh dunia. Pertarungan antara binatang ajaib yang menghuni ruang bawah tanah melalui gerbang dan para pemburu manusia yang telah membangkitkan kemampuan untuk melawan mereka tidak menunjukkan tanda-tanda akan berakhir. Biasanya, kemampuan seorang pemburu tidak berubah saat terbangun, dan peringkatnya tidak pernah meningkat. Namun, Sung Jinwoo yang berperingkat rendah, yang dikenal sebagai \"Pemburu Terlemah Seluruh Umat Manusia,\" memperoleh kemampuan untuk naik level melalui pertempuran selama penyerbuan di ruang bawah tanah ganda.\n\nSetelah menyelesaikan misi perubahan pekerjaan yang memberinya pekerjaan \"Raja Bayangan\" dan memimpin pasukan bayangan, Jinwoo menuju ke medan perang mencari bahan Ramuan Kehidupan untuk menyelamatkan ibunya yang sakit.",
+  "aired-start": "2025-08-13",
+  "thumbnail": "https://i.postimg.cc/dVZM5kWS/images.jpg",
+  "tanda-populer": "F",
+  "direktur": "Admin",
+  "season": "Musim 2",
+  "genre": "Action, Adventure, Fantasy",
+  "hastag": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "eps1": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F0-360p-1736031530457.mp4",
+  "eps2": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F1-360p-1736010577763.mp4",
+  "eps3": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F2-360p-1736614827163.mp4",
+  "eps4": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F3-360p-1737222007605.mp4",
+  "eps5": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F4-360p-1737825602655.mp4",
+  "eps6": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F5-360p-1738429208387.mp4",
+  "eps7": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F6-360p-1739033228778.mp4",
+  "eps8": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F7-360p-1739637671860.mp4",
+  "eps9": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F8-360p-1740242960417.mp4",
+  "eps10": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F9-360p-1740848402917.mp4",
+  "eps11": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F10-360p-1741457235892.mp4",
+  "eps12": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F11-360p-1742057697136.mp4",
+  "eps13": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F12-360p-1742662189512.mp4",
+  "eps14": "https://storages.animein.net/Ore%20dake%20Level%20Up%20na%20Ken%20Season%202%3A%20Arise%20from%20the%20Shadow%2F13-360p-1743267622079.mp4"
 }
 ];
