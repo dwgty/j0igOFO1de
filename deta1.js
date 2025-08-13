@@ -9,7 +9,7 @@ window.videos = [
   "sinopsis": "Kazushi Sudou adalah seorang mahasiswa yang dikunjungi oleh dua sahabat masa kecilnya, Ayane dan Kotone Shirakawa. Ketika Ayane mengetahui bahwa Kazushi tidak hanya lupa membeli pudingnya tetapi juga menggunakan losion khusus miliknya saat berendam, ia memutuskan untuk membalas dendam dan bergabung dengan Kazushi di bak mandinya bersama Kotone. Akankah Kazushi yang mesum mampu tetap acuh tak acuh terhadap mereka berdua?",
   "aired-start": "2025-07-11",
   "thumbnail": "https://i.postimg.cc/gjdxqqDq/images.jpg",
-  "tanda-populer": "T",
+  "tanda-populer": "F",
   "direktur": "Admin",
   "season": "Musim 1",
   "genre": "Romance, Ecchi, Harem",
