@@ -107,7 +107,7 @@ window.videos = [
   "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
   "mini-info-rtg": "6.9",
   "mini-info-eps": "12",
-  "status": "Complete",
+  "status": "Ongoing",
   "tipe": "TV",
   "studio": "Maho Film",
   "sinopsis": "Takuto Ira meninggal karena penyakit di usia muda dan akhirnya bereinkarnasi di dunia yang menyerupai game strategi berbasis giliran fantasi Eternal Nations. Ia tidak hanya bereinkarnasi ke dalam game favoritnya, tetapi juga sebagai dewa yang memimpin peradaban jahat Mynoghra. Dengan unit pahlawan Mynoghra yang cantik, Sludge Witch Atou di sisinya, bahkan sifat ras yang sangat sulit sekalipun tidak akan menghalangi mereka untuk memulai kembali peradaban mereka!",
@@ -224,6 +224,13 @@ window.videos = [
   "eps1": "https://qu.ax/ZXFKU.mp4",
   "eps2": "https://qu.ax/ZbHXj.mp4",
   "eps3": "https://qu.ax/ZuKlq.mp4",
-  "eps4": "https://qu.ax/YNsBZ.mp4"
+  "eps4": "https://qu.ax/YNsBZ.mp4",
+  "eps5": "https://qu.ax/MTcyQ.mp4",
+  "eps6": "",
+  "eps7": "",
+  "eps8": "",
+  "eps9": "",
+  "eps10": "",
+  "eps11": ""
 }
 ];
