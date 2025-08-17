@@ -51,7 +51,7 @@ window.videos = [
   "status": "Completed",
   "tipe": "Series",
   "studio": "feel.",
-  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂdan erotis.",
+  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃdan erotis.",
   "aired-start": "2025-07-12",
   "thumbnail": "https://i.postimg.cc/L6tKKMp2/images.jpg",
   "tanda-populer": "F",
