@@ -30,5 +30,25 @@ window.videos = [
   "eps10": "https://storages.animein.net/The%20New%20Gate%2F10-360p-1736657419244.mp4",
   "eps11": "https://storages.animein.net/The%20New%20Gate%2F11-360p-1736657419248.mp4",
   "eps12": "https://storages.animein.net/The%20New%20Gate%2F12-360p-1736657419252.mp4"
+},
+  {
+  "title": "Mou Hasamazu ni wa Irarenai",
+  "mini-info-rtg": "6.7",
+  "mini-info-eps": "1",
+  "status": "Complete",
+  "tipe": "OVA",
+  "studio": "Peak Hunt",
+  "sinopsis": "Seorang alien menabrak Amano dan sambil memperbaiki tubuhnya, ia membuatnya lebih pintar, lebih atletis, lebih cantik, dan secara tidak sengaja memperbesar ukuran payudaranya sekitar lima cup. Alien itu kemudian meminta untuk memantaunya, karena ia datang ke Bumi untuk memantau manusia, dan tidak melakukan apa pun sampai Amano melihat Sugiuchi dan Amano bernafsu. Alien itu kemudian",
+  "aired-start": "2025-09-03",
+  "thumbnail": "https://i.postimg.cc/rF7XQmVq/images.jpg",
+  "tanda-populer": "F",
+  "direktur": "Admin",
+  "season": "Musim 1",
+  "genre": "Romance, School",
+  "hastag": [
+    "Romance",
+    "School"
+  ],
+  "eps1": "https://files.catbox.moe/femelr.mp4"
 }
 ];
