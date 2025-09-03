@@ -129,8 +129,8 @@ window.videos = [
   "eps5": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F5-360p-1754228274485.mp4",
   "eps6": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F5-360p-1754228274485.mp4",
   "eps7": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F7-480p-1755438348966.mp4",
-  "eps8": "",
-  "eps9": "",
+  "eps8": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F8-480p-1756043429731.mp4",
+  "eps9": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F9-480p-1756647313638.mp4",
   "eps10": "",
   "eps11": "",
   "eps12": ""
