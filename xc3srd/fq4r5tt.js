@@ -1,4 +1,4 @@
-window.videos = [,
+window.videos = [
   {
   "title": "The New Gate",
   "mini-info-rtg": "6.4",
