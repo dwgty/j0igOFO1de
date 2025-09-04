@@ -50,5 +50,37 @@ window.videos = [
     "School"
   ],
   "eps1": "https://files.catbox.moe/femelr.mp4"
+},
+  {
+  "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+  "mini-info-rtg": "9.2",
+  "mini-info-eps": "12",
+  "status": "Complete",
+  "tipe": "Series",
+  "studio": "Tsumugi Akita Animation Lab",
+  "sinopsis": "Bercerita tentang perjalanan seorang pemuda maniak sihir yang sebelumnya adalah seorang rakyat jelata yang dikalahkan oleh kehebatan sihir para Bangsawan. Pemuda tersebut bereinkarnasi menjadi Pangeran ketujuh yang menjadikan dia semakin tangguh dan tak terkalahkan. Demi mempelajari sihir dan semua tehniknya, Lloyd menyembunyikan bakatnya agar tidak mewarisi tahta kerajaan. Kebaikan hatinya dan kehebatannya dirasakan oleh sekitarnya dan bahkan dia bersahabat dengan seorang iblis yang tersegel di kerajaan. Bagaimana akhir perjalanan Lloyd? Apakah dia akan dikhianati oleh Grim, sang iblis yang menemninya di setiap petualangan?",
+  "aired-start": "2025-09-04",
+  "thumbnail": "https://i.postimg.cc/J7cv69Nf/10987897.jpg",
+  "tanda-populer": "T",
+  "direktur": "Admin",
+  "season": "Musim 1",
+  "genre": "Adventure, Fantasy, Magic",
+  "hastag": [
+    "Adventure",
+    "Fantasy",
+    "Magic"
+  ],
+  "eps1": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F1-480p-1735256264417.mp4",
+  "eps2": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F2-480p-1735256471290.mp4",
+  "eps3": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F3-480p-1735257290569.mp4",
+  "eps4": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F4-360p-1735003067131.mp4",
+  "eps5": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F5-360p-1735003067138.mp4",
+  "eps6": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F6-480p-1735257770378.mp4",
+  "eps7": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F7-480p-1735257958472.mp4",
+  "eps8": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F8-480p-1735258187384.mp4",
+  "eps9": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F9-480p-1735258318937.mp4",
+  "eps10": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F10-480p-1752600470977.mp4",
+  "eps11": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F11-480p-1755211815888.mp4",
+  "eps12": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F12-480p-1735258848738.mp4"
 }
 ];
