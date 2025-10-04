@@ -58,7 +58,7 @@ window.videos = [
   "tanda-populer": "F",
   "direktur": "Admin",
   "season": "Musim 1",
-  "genre": "Comedy, Romance, Seinen, School, Harem",
+  "genre": "Comedy, Romance, Seinen, School, Harem, Ecchi",
   "hastag": [
     "Comedy",
     "Romance",
@@ -92,7 +92,7 @@ window.videos = [
   "tanda-populer": "T",
   "direktur": "Admin",
   "season": "Musim 1",
-  "genre": "Mecha, School, Harem",
+  "genre": "Mecha, School, Harem, Ecchi",
   "hastag": [
     "Mecha",
     "School",
