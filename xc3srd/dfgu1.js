@@ -52,7 +52,7 @@ window.videos = [
   "status": "Completed",
   "tipe": "Series",
   "studio": "feel.",
-  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃdan erotis.",
+  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃdan erotis.",
   "aired-start": "2025-07-12",
   "thumbnail": "https://i.postimg.cc/L6tKKMp2/images.jpg",
   "tanda-populer": "F",
@@ -269,5 +269,26 @@ window.videos = [
   "eps10": "https://storages.animein.net/Kaifuku%20Jutsushi%20no%20Yarinaoshi%2F10-360p-1754984622700.mp4",
   "eps11": "https://storages.animein.net/Kaifuku%20Jutsushi%20no%20Yarinaoshi%2F11-360p-1734879171149.mp4",
   "eps12": "https://storages.animein.net/Kaifuku%20Jutsushi%20no%20Yarinaoshi%2F12-360p-1734879233704.mp4"
+},
+  {
+  "title": "Ryoujoku Famiresu Choukyou Menu",
+  "mini-info-rtg": "6.4",
+  "mini-info-eps": "2",
+  "status": "Complete",
+  "tipe": "OVA",
+  "studio": "PoRo",
+  "sinopsis": "Keluarga Sayaka kaya, tetapi orang tuanya tiba-tiba menghilang. Ia perlu mencari pekerjaan untuk mencari nafkah, tetapi ia tidak tahu harus berbuat apa. Suatu hari, Yuzuko menawari Sayaka pekerjaan paruh waktu di sebuah restoran keluarga. Ia menerimanya dan mulai bekerja di sana. Namun, Kuroki, pemilik restoran, memberi tahu Sayaka bahwa orang tuanya menghilang karena bisnis mereka bangkrut dan mereka terlilit utang. Menyelamatkan mereka, melunasi utang mereka adalah satu-satunya cara. Ia bingung harus berbuat apa, tetapi Kuroki memberinya ide, \"Restoran kami hanya menawarkan layanan khusus di tengah malam. Jika Anda mencantumkan nama Anda di buku menu, akan lebih cepat melunasi utang.\" Setelah jam kerja, ada pelayan yang melayani pelanggan setiap malam. Sayaka memutuskan untuk bekerja tengah malam demi menyelamatkan orang tuanya...",
+  "aired-start": "2025-10-04",
+  "thumbnail": "https://i.postimg.cc/dQS4Gkn8/27972.webp",
+  "tanda-populer": "F",
+  "direktur": "Admin",
+  "season": "Musim 1",
+  "genre": "Ecchi, Mecha",
+  "hastag": [
+    "Ecchi",
+    "Mecha"
+  ],
+  "eps1": "https://pixeldrain.com/api/filesystem/doRA79WZ",
+  "eps2": "https://pixeldrain.com/api/filesystem/kkP2tUwr"
 }
 ];
