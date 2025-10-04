@@ -107,7 +107,7 @@ window.videos = [
   "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
   "mini-info-rtg": "6.9",
   "mini-info-eps": "12",
-  "status": "Ongoing",
+  "status": "Complete",
   "tipe": "TV",
   "studio": "Maho Film",
   "sinopsis": "Takuto Ira meninggal karena penyakit di usia muda dan akhirnya bereinkarnasi di dunia yang menyerupai game strategi berbasis giliran fantasi Eternal Nations. Ia tidak hanya bereinkarnasi ke dalam game favoritnya, tetapi juga sebagai dewa yang memimpin peradaban jahat Mynoghra. Dengan unit pahlawan Mynoghra yang cantik, Sludge Witch Atou di sisinya, bahkan sifat ras yang sangat sulit sekalipun tidak akan menghalangi mereka untuk memulai kembali peradaban mereka!",
@@ -131,9 +131,10 @@ window.videos = [
   "eps7": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F7-480p-1755438348966.mp4",
   "eps8": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F8-480p-1756043429731.mp4",
   "eps9": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F9-480p-1756647313638.mp4",
-  "eps10": "",
-  "eps11": "",
-  "eps12": ""
+  "eps10": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F10-480p-1757266594053.mp4",
+  "eps11": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F11-480p-1757858176979.mp4",
+  "eps12": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F12-480p-1758462247529.mp4",
+  "eps13": "https://storages.animein.net/Isekai%20Mokushiroku%20Mynoghra%3A%20Hametsu%20no%20Bunmei%20de%20Hajimeru%20Sekai%20Seifuku%2F13-480p-1759066580393.mp4"
 },
   {
   "title": "Solo Leveling",
