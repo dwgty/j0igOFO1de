@@ -52,7 +52,7 @@ window.videos = [
   "status": "Completed",
   "tipe": "Series",
   "studio": "feel.",
-  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃdan erotis.",
+  "sinopsis": "Ketika ayah Keita Suminoe menikah lagi, ia tidak hanya mendapatkan ibu baru, tetapi juga saudara kembar yang lebih tua. Berbeda tetapi serupa, Ako yang sederhana dan dewasa adalah mantan ketua OSIS, sementara Riko yang atletis dan penyendiri adalah ketua disiplin sebelumnya. Ketiganya telah bersama sejak taman kanak-kanak, yang menghasilkan ikatan yang dalam di antara kedua saudara kandung tersebut. Namun, seiring berjalannya waktu, hubungan mereka berkembang menjadi sesuatu yang lebih romantisÃÂdan erotis.",
   "aired-start": "2025-07-12",
   "thumbnail": "https://i.postimg.cc/L6tKKMp2/images.jpg",
   "tanda-populer": "F",
@@ -290,5 +290,28 @@ window.videos = [
   ],
   "eps1": "https://pixeldrain.com/api/filesystem/doRA79WZ",
   "eps2": "https://pixeldrain.com/api/filesystem/kkP2tUwr"
+},
+  {
+  "title": "Fukubiki! Triangle: Miharu After",
+  "mini-info-rtg": "7.0",
+  "mini-info-eps": "3",
+  "status": "Complete",
+  "tipe": "OVA",
+  "studio": "PoRo",
+  "sinopsis": "Miharu Shinonome memiliki tubuh yang sempurna. Ia sangat berpengetahuan tentang aktivitas /n dan sering memimpin jalannya hubungan dengan pacarnya, Ushio Irifune. Tiba-tiba, sebuah kecelakaan mengerikan membawanya ke rumah sakit, membuat Ushio dan adiknya, Futaba, sangat khawatir dengan kondisi kesehatannya saat itu.\n\nMiharu terbangun dengan ingatannya yang hilang tentang Ushio, kembali ke keadaannya sebelum bertemu pacarnya—pemalu, murung, dan sama sekali polos. Lebih lanjut, memanfaatkan hilangnya ingatan adiknya, Futaba merayu Ushio yang juga menyimpan perasaan padanya. Ushio harus membantu Miharu mendapatkan kembali ingatannya, sambil berusaha tetap tenang menghadapi",
+  "aired-start": "2025-10-04",
+  "thumbnail": "https://i.postimg.cc/J0CQTgdC/103857.webp",
+  "tanda-populer": "F",
+  "direktur": "Admin",
+  "season": "Musim 1",
+  "genre": "Ecchi, Harem, School",
+  "hastag": [
+    "Ecchi",
+    "Harem",
+    "School"
+  ],
+  "eps1": "https://pixeldrain.com/api/filesystem/3cLsWPRF",
+  "eps2": "https://pixeldrain.com/api/filesystem/ZXBAQq5q",
+  "eps3": "https://pixeldrain.com/api/filesystem/1koTjW8Y"
 }
 ];
