@@ -26,7 +26,7 @@ window.videos = [
   {
   "title": "Boku no Risou no Isekai Seikatsu",
   "mini-info-rtg": "6.6",
-  "mini-info-eps": "1",
+  "mini-info-eps": "2",
   "status": "Completed",
   "tipe": "OVA",
   "studio": "Studio 1st",
@@ -43,7 +43,7 @@ window.videos = [
     "Harem"
   ],
   "eps1": "https://qu.ax/gwNvp.mp4",
-  "eps2": "https://pixeldrain.com/u/xHsqKkFo"
+  "eps2": "https://pixeldrain.com/u/xHsqKkFo?embed"
 },
   {
   "title": "Kiss x Sis",
