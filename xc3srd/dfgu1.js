@@ -42,7 +42,8 @@ window.videos = [
     "Isekai",
     "Harem"
   ],
-  "eps1": "https://qu.ax/gwNvp.mp4"
+  "eps1": "https://qu.ax/gwNvp.mp4",
+  "eps2": "https://pixeldrain.com/u/xHsqKkFo"
 },
   {
   "title": "Kiss x Sis",
