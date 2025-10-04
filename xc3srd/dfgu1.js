@@ -229,10 +229,10 @@ window.videos = [
   "eps5": "https://qu.ax/MTcyQ.mp4",
   "eps6": "https://files.catbox.moe/1cxz7k.mp4",
   "eps7": "https://files.catbox.moe/vduu5o.mp4",
-  "eps8": "",
-  "eps9": "",
-  "eps10": "",
-  "eps11": ""
+  "eps8": "https://files.catbox.moe/f9wzqp.mp4",
+  "eps9": "https://files.catbox.moe/v2h6c0.mp4",
+  "eps10": "https://files.catbox.moe/a27kqf.mp4",
+  "eps11": "https://files.catbox.moe/4uyk65.mp4"
 },
   {
   "title": "Kaifuku Jutsushi no Yarinaoshi",
