@@ -43,7 +43,7 @@ window.videos = [
     "Harem"
   ],
   "eps1": "https://qu.ax/gwNvp.mp4",
-  "eps2": "https://pixeldrain.com/u/xHsqKkFo?embed"
+  "eps2": "https://pixeldrain.com/api/file/xHsqKkFo"
 },
   {
   "title": "Kiss x Sis",
