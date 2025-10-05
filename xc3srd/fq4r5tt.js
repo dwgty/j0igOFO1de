@@ -82,5 +82,39 @@ window.videos = [
   "eps10": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F10-480p-1752600470977.mp4",
   "eps11": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F11-480p-1755211815888.mp4",
   "eps12": "https://storages.animein.net/Tensei%20shitara%20Dainana%20Ouji%20Datta%20node%2C%20Kimama%20ni%20Majutsu%20wo%20Kiwamemasu%2F12-480p-1735258848738.mp4"
+},
+  {
+  "title": "Spy x Family part 2",
+  "mini-info-rtg": "8.7",
+  "mini-info-eps": "13",
+  "status": "Completed",
+  "tipe": "Series",
+  "studio": "Wit Studio, CloverWorks",
+  "sinopsis": "agen mata-mata terampil bernama sandi 'Twillight' yang menjalankan Operasi Strix, yakni misi penting terkait perdamaian antarnegara mencakup Westalis di barat dan Ostania di timur.\n\nTwilight melaksanakan misi tersebut dengan harapan tidak ada anak yang harus mengalami kengerian perang dua negara tetangga.\n\nTwilight merupakan agen Westalis yang ditugaskan untuk mengumpulkan informasi dari pemimpin Partai Persatuan Nasional di Ostania, Donovan Desmond.\n\nAkan tetapi, karena Donovan merupakan pribadi yang sangat tertutup dan sulit ditembus, satu-satunya cara Twilight untuk bisa mendekatinya tanpa dicurigai adalah melalui anaknya.",
+  "aired-start": "2025-10-05",
+  "thumbnail": "https://i.postimg.cc/L5qQYPqj/anya-menjalankan-misi-bersama-loid-dan-fiona-dalam-visual-untuk-spy-x-family-episode-20.jpg",
+  "tanda-populer": "F",
+  "direktur": "Admin",
+  "season": "Musim 1.2",
+  "genre": "Action, Comedy, School, Shounen",
+  "hastag": [
+    "Action",
+    "Comedy",
+    "School",
+    "Shounen"
+  ],
+  "eps1": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F1-360p-1735095559146.mp4",
+  "eps2": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F2-480p-1735606104288.mp4",
+  "eps3": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F3-480p-1735606104289.mp4",
+  "eps4": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F4-480p-1735606104291.mp4",
+  "eps5": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F5-480p-1735606104293.mp4",
+  "eps6": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F6-480p-1735606104294.mp4",
+  "eps7": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F7-480p-1735606104296.mp4",
+  "eps8": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F8-480p-1735606104301.mp4",
+  "eps9": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F9-480p-1735606104303.mp4",
+  "eps10": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F10-480p-1735606104280.mp4",
+  "eps11": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F11-480p-1735606104281.mp4",
+  "eps12": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F12-360p-1735095559173.mp4",
+  "eps13": "https://storages.animein.net/Spy%20x%20Family%20Part%202%2F13-480p-1735606104285.mp4"
 }
 ];
