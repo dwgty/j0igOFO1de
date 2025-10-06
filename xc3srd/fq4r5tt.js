@@ -124,7 +124,7 @@ window.videos = [
   "status": "Completed",
   "tipe": "Series",
   "studio": "A-1 Pictures, Trigger, CloverWorks",
-  "sinopsis": "Di masa depan yang jauh, umat manusia telah didorong ke ambang kepunahan oleh binatang raksasa yang dikenal sebagai Klaxosaurus, yang memaksa manusia yang masih hidup untuk berlindung di kota-kota benteng besar yang disebut Perkebunan. Anak-anak yang dibesarkan di sini dilatih untuk mengemudikan mecha raksasa yang dikenal sebagai FranXX—satu-satunya senjata yang diketahui efektif melawan Klaxosaurus—dalam pasangan laki-laki dan perempuan. Dibesarkan hanya untuk tujuan mengemudikan mesin-mesin ini, anak-anak ini tidak tahu apa-apa tentang dunia luar dan hanya mampu membuktikan keberadaan mereka dengan membela ras mereka.\n\nHiro, seorang calon pilot FranXX, telah kehilangan motivasi dan kepercayaan dirinya setelah gagal dalam tes bakat. Membolos dari upacara kelulusan kelasnya, Hiro mundur ke sebuah danau hutan, di mana ia bertemu dengan seorang gadis misterius dengan dua tanduk tumbuh di kepalanya. Ia memperkenalkan dirinya dengan nama sandi Zero Two, yang diketahui milik seorang pilot FranXX terkenal yang dikenal sebagai \"Partner Killer.\" Sebelum Hiro dapat mencerna pertemuan itu, Perkebunan diguncang oleh serangan Klaxosaurus yang tiba-tiba. Zero Two melawan makhluk itu di FranXX miliknya, tetapi makhluk itu rusak parah dalam pertempuran kecil dan jatuh di dekat Hiro. Mengetahui partnernya tewas, Zero Two mengajak Hiro untuk mengemudikan mecha bersamanya, dan keduanya dengan mudah mengalahkan Klaxosaur dalam pertarungan berikutnya. Dengan partner baru di sisinya, Hiro diberi kesempatan untuk menebus kegagalan masa lalunya, tetapi berapa biayanya?",
+  "sinopsis": "Di masa depan yang jauh, umat manusia telah didorong ke ambang kepunahan oleh binatang raksasa yang dikenal sebagai Klaxosaurus, yang memaksa manusia yang masih hidup untuk berlindung di kota-kota benteng besar yang disebut Perkebunan. Anak-anak yang dibesarkan di sini dilatih untuk mengemudikan mecha raksasa yang dikenal sebagai FranXXâsatu-satunya senjata yang diketahui efektif melawan Klaxosaurusâdalam pasangan laki-laki dan perempuan. Dibesarkan hanya untuk tujuan mengemudikan mesin-mesin ini, anak-anak ini tidak tahu apa-apa tentang dunia luar dan hanya mampu membuktikan keberadaan mereka dengan membela ras mereka.\n\nHiro, seorang calon pilot FranXX, telah kehilangan motivasi dan kepercayaan dirinya setelah gagal dalam tes bakat. Membolos dari upacara kelulusan kelasnya, Hiro mundur ke sebuah danau hutan, di mana ia bertemu dengan seorang gadis misterius dengan dua tanduk tumbuh di kepalanya. Ia memperkenalkan dirinya dengan nama sandi Zero Two, yang diketahui milik seorang pilot FranXX terkenal yang dikenal sebagai \"Partner Killer.\" Sebelum Hiro dapat mencerna pertemuan itu, Perkebunan diguncang oleh serangan Klaxosaurus yang tiba-tiba. Zero Two melawan makhluk itu di FranXX miliknya, tetapi makhluk itu rusak parah dalam pertempuran kecil dan jatuh di dekat Hiro. Mengetahui partnernya tewas, Zero Two mengajak Hiro untuk mengemudikan mecha bersamanya, dan keduanya dengan mudah mengalahkan Klaxosaur dalam pertarungan berikutnya. Dengan partner baru di sisinya, Hiro diberi kesempatan untuk menebus kegagalan masa lalunya, tetapi berapa biayanya?",
   "aired-start": "2025-10-06",
   "thumbnail": "https://i.postimg.cc/hPWRw0c7/MV5-BYWNl-Yzk1-NGQt-NTZk-Ni00-Yz-Ji-LWJk-MWUt-ZTYz-Nj-I3-YTc5-ZDRh-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
   "tanda-populer": "F",
@@ -162,5 +162,26 @@ window.videos = [
   "eps22": "https://storages.animein.net/Darling%20in%20the%20FranXX%2F22-480p-1734890005498.mp4",
   "eps23": "https://storages.animein.net/Darling%20in%20the%20FranXX%2F23-480p-1734890005498.mp4",
   "eps24": "https://storages.animein.net/Darling%20in%20the%20FranXX%2F24-480p-1734890005498.mp4"
+},
+  {
+  "title": "Suki de Suki de, Suki de The Animation",
+  "mini-info-rtg": "6.1",
+  "mini-info-eps": "2",
+  "status": "Completed",
+  "tipe": "OVA",
+  "studio": "Pink Pineapple",
+  "sinopsis": "Pria itu menonton film /n, yah, dan merasa gatal, hal yang wajar mengingat usianya. Untungnya, adik perempuannya ada di dekatnya, yang ia buat tertidur dengan pil tidur. ... ... Sepulang kerja, anak laki-laki itu pulang berlibur, di mana adik perempuannya sangat merindukannya.",
+  "aired-start": "2025-10-06",
+  "thumbnail": "https://i.postimg.cc/50tpsyPN/k3213AY.webp",
+  "tanda-populer": "F",
+  "direktur": "Admin",
+  "season": "Musim 1",
+  "genre": "Ecchi, Harem",
+  "hastag": [
+    "Ecchi",
+    "Harem"
+  ],
+  "eps1": "https://pixeldrain.com/api/filesystem/MAbPJWLB",
+  "eps2": "https://pixeldrain.com/api/filesystem/gxyb3PvS"
 }
 ];
