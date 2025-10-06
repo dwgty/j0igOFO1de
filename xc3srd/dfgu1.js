@@ -107,7 +107,7 @@ window.videos = [
   {
   "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
   "mini-info-rtg": "6.9",
-  "mini-info-eps": "12",
+  "mini-info-eps": "13",
   "status": "Complete",
   "tipe": "TV",
   "studio": "Maho Film",
